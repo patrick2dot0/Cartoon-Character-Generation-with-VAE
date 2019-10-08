@@ -4,7 +4,7 @@
 
 I use https://google.github.io/cartoonset/ as the dataset.
 The dataset contains 10000 face images. 
-All the images are with size of 500  500. 
+All the images are with size of 500 * 500. 
 
 + data
 <img src="figures/data.png" width="50%" height="50%" />
